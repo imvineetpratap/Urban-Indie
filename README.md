@@ -45,10 +45,10 @@ Frontend: Angular
 
 ## Technologies Used
 
-- Frontend: HTML, CSS, JavaScript, React.js (or any other preferred frontend framework/library)
-- Backend: Node.js, Express.js (or any other preferred backend framework)
-- Database: MongoDB (or any other preferred database)
-- Payment Gateway Integration: [Payment Gateway Provider Name]
+- Frontend: HTML, CSS, JavaScript, React.js
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Payment Gateway Integration: 
 
 For collaboration and access to project files, please contact me via email at [vs671344@gmail.com] to request access to the private repository.
 
